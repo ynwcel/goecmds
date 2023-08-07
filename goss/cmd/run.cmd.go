@@ -13,7 +13,7 @@ import (
 	"github.com/gogf/gf/v2/os/gfile"
 	"github.com/gogf/gf/v2/os/gview"
 	"github.com/urfave/cli/v2"
-	"github.com/ynwcel/gcmds/goss/util"
+	"github.com/ynwcel/goecmds/goss/util"
 )
 
 var runCmd = &cli.Command{

@@ -1,4 +1,4 @@
-module github.com/ynwcel/gcmds/goss
+module github.com/ynwcel/goecmds/goss
 
 go 1.20
 

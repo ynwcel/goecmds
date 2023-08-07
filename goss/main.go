@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ynwcel/gcmds/goss/cmd"
+	"github.com/ynwcel/goecmds/goss/cmd"
 )
 
 func main() {
