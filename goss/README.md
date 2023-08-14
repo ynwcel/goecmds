@@ -3,7 +3,7 @@
 ### 安装
 
 ```shell
-go install github.com/ynwcel/gcmds/goss@latest
+go install github.com/ynwcel/goecmds/goss@latest
 ```
 
 ### 使用
@@ -18,7 +18,7 @@ USAGE:
     goss <command> [options]
 
 COMMANDS:
-    init   init a web site directory
+    init   init a statics web site in current directory
     run    run web site in current directory
     build  build html file
 
